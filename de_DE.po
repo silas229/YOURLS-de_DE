@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: YOURLS 1.6\n"
 "POT-Creation-Date: 2014-01-11 11:50+0100\n"
-"PO-Revision-Date: 2018-03-29 20:54+0200\n"
+"PO-Revision-Date: 2018-04-08 17:18+0200\n"
 "Last-Translator: Julian Sternberg <admin@ispire.me>\n"
 "Language-Team: \n"
 "Language: de_DE\n"
@@ -533,15 +533,15 @@ msgstr "Kürzen und teilen:"
 
 #: admin/tools.php:68
 msgid "YOURLS &amp; Facebook"
-msgstr ""
+msgstr "YOURLS &amp; Facebook"
 
 #: admin/tools.php:70
 msgid "YOURLS &amp; Twitter"
-msgstr ""
+msgstr "YOURLS &amp; Twitter"
 
 #: admin/tools.php:72
 msgid "YOURLS &amp; Tumblr"
-msgstr ""
+msgstr "YOURLS &amp; Tumblr"
 
 #: admin/tools.php:80
 msgid "Prefix-n-Shorten"
@@ -599,7 +599,7 @@ msgstr "Ihr geheimer Signatur Token: <strong><code>%s</code></strong>"
 
 #: admin/tools.php:103
 msgid "(It's a secret. Keep it secret) "
-msgstr "(Er ist geheim. Behalten Sie ihn für sich)"
+msgstr "(Er ist geheim. Behalten Sie ihn für sich) "
 
 #: admin/tools.php:106
 msgid ""
@@ -705,7 +705,7 @@ msgstr "Upgrade"
 
 #: admin/upgrade.php:77
 msgid "Your installation is now up to date ! "
-msgstr "Deine Installation ist jetzt auf dem neuesten Stand!"
+msgstr "Deine Installation ist jetzt auf dem neuesten Stand! "
 
 #: admin/upgrade.php:78
 #, php-format
@@ -770,19 +770,19 @@ msgstr "Powered by %s"
 
 #: includes/functions-html.php:175
 msgid "Enter the URL"
-msgstr "Bitte URL eingeben"
+msgstr "Lange URL einfügen"
 
 #: includes/functions-html.php:176
 msgid "Optional "
-msgstr ""
+msgstr "Optional"
 
 #: includes/functions-html.php:176
 msgid "Custom short URL"
-msgstr "Benutzerdefinierte Endung"
+msgstr "Alias"
 
 #: includes/functions-html.php:178
 msgid "Shorten The URL"
-msgstr "Kürze die URL"
+msgstr "Kürzen"
 
 #: includes/functions-html.php:212 includes/functions-html.php:224
 #: includes/functions-html.php:629
@@ -797,11 +797,11 @@ msgstr "Suche nach %1$s in %2$s"
 
 #: includes/functions-html.php:230
 msgid "Ascending"
-msgstr "aufsteigend"
+msgstr "Aufsteigend"
 
 #: includes/functions-html.php:231
 msgid "Descending"
-msgstr "absteigend"
+msgstr "Absteigend"
 
 #. //translators: "Order by <criteria dropdown (date, clicks...)> in <order dropdown (Descending or Ascending)>"
 #: includes/functions-html.php:235
